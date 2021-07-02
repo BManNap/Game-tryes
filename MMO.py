@@ -1,6 +1,5 @@
 #Ideas
 #So for the Upgrade Sword option I was thinking from going to wood(2) to iron(3), gold(5), titaniam(8), diamond(12), Then uraninam(17)
-#U can use a list like in the book
 #
 
 #imports
